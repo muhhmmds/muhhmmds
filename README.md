@@ -1,11 +1,9 @@
 # 💫 About Me:
 🔭  I’m currently working as Freelancer<br>🌱  I’m currently learning Node JS<br>👯  I’m looking to collaborate on potential podcast<br>💬  Ask me about JS, React, NEXT, and TypeScript<br>📫  How to reach me: devmohamedsaber@gmail.com<br>😄  Pronouns: he/him<br>⚡  Fun fact: I ❤️ Reading
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmmdsbr?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/mosaberr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)]([https://reddit.com/user/https://www.reddit.com/u/muhmdsaber/s/FalksbjktL](https://www.reddit.com/user/muhmdsaber/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19810609/muhammed-saber) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhhmmds) 
-  ## 💰 You can help me by Donating
- <a href="https://buymeacoffee.com/MUHHMDSABER" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+  ## 💰 <a href="https://buymeacoffee.com/MUHHMDSABER" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 
 
 # 💻 Tech Stack:
